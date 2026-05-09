@@ -1,6 +1,6 @@
 # Pong
 
-The following game of pong is made entirely in the LOVE game engine in Lua.
+The following game of pong is made entirely in the LOVE game engine.
 This implementation of this game is inspired by the CS50 2D course.
 But I have changed quite a few things like adding a singleplayer mode.
 I also made a few changes to the original implementation to make the game feel more realistic.
