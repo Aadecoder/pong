@@ -177,6 +177,7 @@ function love.update(dt)
   end
 
   if game_mode == 'singleplayer' then
+    -- Perfect AI
     -- player2:reach(ball.y)
 
     -- 1. Reaction Threshold: Only move if the ball is past the middle of the screen
